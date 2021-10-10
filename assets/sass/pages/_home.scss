@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.principal {
+  margin: 10px;
+  padding: 10px;
+}
+
+.container{
+  div{
+    img{
+      width: 100%;
+      object-fit: cover;
+      height: 15em;
+    }
+    p{
+      color: grey;
+    }
+  }
+
+}
+
+
+
+
+
+
+  .prueba2{
+    img{
+      border-radius: 50%;
+      width: 5em;
+    }
+    &__text{
+
+      margin-left: .5em;
+  display: inline-block;
+    }
+    p{
+      color: lightslategray;
+    }
+  }
+
+  
+ 

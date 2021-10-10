@@ -1,0 +1,26 @@
+
+.buttons{
+    
+    float: right;
+    
+
+ &__b{
+
+border: none; 
+  color: white; 
+  padding: 14px 28px; 
+  cursor: pointer;
+  background-color: lightblue;
+  
+}
+
+&__c{
+
+    border: none; 
+      color: white; 
+      padding: 14px 28px; 
+      cursor: pointer;
+      background-color: rgb(222, 173, 230);
+    }
+  
+    }

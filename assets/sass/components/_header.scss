@@ -1,0 +1,17 @@
+.hero-section{
+    background-image: url('/assets/img/image-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 20em;
+}
+
+@media(max-width: 767px) {
+    .hero-section{
+        background-image: url('/assets/img/image-banner.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        height: 10em;
+    }
+}
